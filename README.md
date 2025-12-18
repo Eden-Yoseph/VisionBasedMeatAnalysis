@@ -81,5 +81,4 @@ Author
 Eden Yoseph — CV / ML Engineering | Edge AI & Computer Vision
 
 License
-
-Research and educational use only.
+Research and educational use.
